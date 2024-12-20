@@ -1,6 +1,6 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a Todo List application built using React and the Context API. It was created while learning from the Chai aur Code YouTube channel. The app allows users to add, edit, delete, and manage tasks efficiently.
 
 Currently, two official plugins are available:
 
